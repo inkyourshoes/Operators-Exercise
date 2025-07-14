@@ -1,0 +1,15 @@
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.AssemblyInfoInputs.cache
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.AssemblyInfo.cs
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.csproj.CoreCompileInputs.cache
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.sourcelink.json
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.deps.json
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.runtimeconfig.json
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.dll
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.pdb
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.dll
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/refint/OperatorExercise.dll
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.pdb
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.genruntimeconfig.cache
+/Users/inkyourshoes/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/ref/OperatorExercise.dll
